@@ -1,4 +1,8 @@
 # Donate us 💖
+
+> [!IMPORTANT]
+> This repository has been archived, as we have launched a new sponsorship method.
+
 If you find this project helpful, your support is welcome to sustain its ongoing development and maintenance.
 
 > You can copy the entire code block below and reuse it in your other projects.
